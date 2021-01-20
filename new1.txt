@@ -1,3 +1,7 @@
 hello
 hoooo
-kuhuhkuku
+<<<<<<< HEAD
+
+=======
+heejjj
+>>>>>>> 9b43d154e987bc82c5eaf7596c7f0fc7cf9f3bc7
